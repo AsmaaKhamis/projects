@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Ghada\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe.config
+C:\Users\HP\Desktop\Ghada\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe
+C:\Users\HP\Desktop\Ghada\CalculatePI\CalculatePI\bin\Debug\CalculatePI.pdb
+C:\Users\HP\Desktop\Ghada\CalculatePI\CalculatePI\obj\Debug\CalculatePI.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Ghada\CalculatePI\CalculatePI\obj\Debug\CalculatePI.exe
+C:\Users\HP\Desktop\Ghada\CalculatePI\CalculatePI\obj\Debug\CalculatePI.pdb
+G:\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe.config
+G:\CalculatePI\CalculatePI\obj\Debug\CalculatePI.exe
+G:\CalculatePI\CalculatePI\obj\Debug\CalculatePI.pdb
+G:\CalculatePI\CalculatePI\bin\Debug\CalculatePI.exe
+G:\CalculatePI\CalculatePI\bin\Debug\CalculatePI.pdb
+G:\CalculatePI\CalculatePI\obj\Debug\CalculatePI.csprojResolveAssemblyReference.cache
