@@ -1,0 +1,45 @@
+CONSTRAINT [FK_DEP_ToTable] FOREIGN KEY ([FID]) REFERENCES [dbo].[faculty] ([FID])
+
+
+// faculty table
+
+
+CREATE TABLE [dbo].[faculty] (
+    [FID]         INT           IDENTITY (1, 1) NOT NULL,
+    [fucultyName] NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([FID] ASC)
+);
+
+
+//department table 
+
+
+CREATE TABLE [dbo].[DEP] (
+    [DID] INT           IDENTITY (1, 1) NOT NULL,
+    [dep] NVARCHAR (50) NULL,
+    [FID] INT           NULL,
+    PRIMARY KEY CLUSTERED ([DID] ASC),
+    CONSTRAINT [FK_DEP_ToTable] FOREIGN KEY ([FID]) REFERENCES [dbo].[faculty] ([FID])
+);
+
+
+
+
+
+
+
+//student table
+
+
+CREATE TABLE [dbo].[student] (
+    [Id]    INT           IDENTITY (1, 1) NOT NULL,
+    [name]  NVARCHAR (50) NULL,
+    [email] NVARCHAR (50) NULL,
+    [phone] NVARCHAR (50) NULL,
+    [pass]  NVARCHAR (50) NULL,
+    [FID]   INT           NULL,
+    [DID]   INT           NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_student_ToTable] FOREIGN KEY ([FID]) REFERENCES [dbo].[faculty] ([FID]),
+    CONSTRAINT [FK_student_ToTable_1] FOREIGN KEY ([DID]) REFERENCES [dbo].[DEP] ([DID])
+);

@@ -1,0 +1,2 @@
+UpdateCommand="UPDATE [student] SET [name]=@name,[email]=@email,[phone]=@phone,[pass]=@pass,[FID]=@FID,[DID]=@DID,where [Id]=@Id"
+				DeleteCommand="DELETE from [student] where [Id]=@Id"
