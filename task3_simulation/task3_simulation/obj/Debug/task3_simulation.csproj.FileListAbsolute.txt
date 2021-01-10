@@ -19,3 +19,13 @@ D:\معتصم\task3_simulation\task3_simulation\obj\Debug\task3_simulation.cspro
 D:\معتصم\task3_simulation\task3_simulation\obj\Debug\task3_simulation.Form1.resources
 D:\معتصم\task3_simulation\task3_simulation\obj\Debug\task3_simulation.Properties.Resources.resources
 D:\معتصم\task3_simulation\task3_simulation\obj\Debug\task3_simulation.csproj.GenerateResource.Cache
+F:\projects\task3_simulation\task3_simulation\bin\Debug\task3_simulation.exe.config
+F:\projects\task3_simulation\task3_simulation\obj\Debug\task3_simulation.csproj.ResolveComReference.cache
+F:\projects\task3_simulation\task3_simulation\obj\Debug\task3_simulation.exe
+F:\projects\task3_simulation\task3_simulation\obj\Debug\task3_simulation.pdb
+F:\projects\task3_simulation\task3_simulation\bin\Debug\task3_simulation.exe
+F:\projects\task3_simulation\task3_simulation\bin\Debug\task3_simulation.pdb
+F:\projects\task3_simulation\task3_simulation\obj\Debug\task3_simulation.csprojResolveAssemblyReference.cache
+F:\projects\task3_simulation\task3_simulation\obj\Debug\task3_simulation.Form1.resources
+F:\projects\task3_simulation\task3_simulation\obj\Debug\task3_simulation.Properties.Resources.resources
+F:\projects\task3_simulation\task3_simulation\obj\Debug\task3_simulation.csproj.GenerateResource.Cache
